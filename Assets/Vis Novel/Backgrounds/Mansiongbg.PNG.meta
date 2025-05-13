@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mansiongbg_0: -8262452082922661449
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

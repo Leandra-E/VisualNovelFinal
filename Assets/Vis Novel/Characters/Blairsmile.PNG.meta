@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blairsmile_0: 9069590796851237620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

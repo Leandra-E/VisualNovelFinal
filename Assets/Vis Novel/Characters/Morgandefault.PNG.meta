@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Morgandefault_0: 9008509150173765435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

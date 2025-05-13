@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blairdefaultcrop_0: -8822959696928394811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Emersondefault_0: 5906812090633008582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

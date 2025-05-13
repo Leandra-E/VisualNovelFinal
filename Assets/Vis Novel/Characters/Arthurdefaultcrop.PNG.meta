@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arthurdefaultcrop_0: 2778512770271334938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

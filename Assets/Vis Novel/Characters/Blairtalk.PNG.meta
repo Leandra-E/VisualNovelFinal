@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blairtalk_0: 2317146638441346519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
