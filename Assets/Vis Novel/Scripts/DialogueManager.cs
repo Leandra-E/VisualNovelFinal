@@ -41,6 +41,7 @@ public class DialogueManager : MonoBehaviour
     public Sprite TheaDefault;
     public Sprite LouisDefault;
     public Sprite Player;
+    public Sprite Notice;
     
     //A list of all the background sprites
     public Sprite MansionBG;
@@ -160,6 +161,7 @@ public class DialogueManager : MonoBehaviour
         if (who == "Blair") return BlairDefault;
         if (who == "Thea") return TheaDefault;
         if (who == "Player") return Player;
+        if (who == "Notice") return Notice;
         //If Character is left blank, just don't change anything
         return Character.sprite;
     }
