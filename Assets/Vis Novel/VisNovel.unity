@@ -248,6 +248,373 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &167728559 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2968348427881020938, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &202944851 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3007646341976894709, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &298120952 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7361370937087534479, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &388717331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 388717334}
+  - component: {fileID: 388717333}
+  - component: {fileID: 388717332}
+  m_Layer: 0
+  m_Name: ChoiceC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &388717332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388717331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: The Butler
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 8
+  m_fontSizeBase: 8
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 0
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0.0000009536743, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  _SortingLayer: 0
+  _SortingLayerID: 0
+  _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 388717333}
+  m_maskType: 0
+--- !u!23 &388717333
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388717331}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 9
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!224 &388717334
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388717331}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10.019379}
+  m_LocalScale: {x: 0.5, y: 2, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 303740265768671041}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.405, y: 0}
+  m_SizeDelta: {x: 9.5617, y: 1.1671}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &447130640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 447130643}
+  - component: {fileID: 447130642}
+  - component: {fileID: 447130641}
+  m_Layer: 0
+  m_Name: ChoiceB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &447130641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447130640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: The Plumber
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 8
+  m_fontSizeBase: 8
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 0
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0.0000009536743, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  _SortingLayer: 0
+  _SortingLayerID: 0
+  _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 447130642}
+  m_maskType: 0
+--- !u!23 &447130642
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447130640}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 8
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!224 &447130643
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447130640}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 2, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1716690778}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.08, y: -0.35999966}
+  m_SizeDelta: {x: 9.5617, y: 1.1671}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &750012524
 GameObject:
   m_ObjectHideFlags: 0
@@ -340,6 +707,208 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1072941423 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6861e7420e0ef67408679d8e153989b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &1300188313
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1300188316}
+  - component: {fileID: 1300188315}
+  - component: {fileID: 1300188314}
+  m_Layer: 0
+  m_Name: ChoiceA
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1300188314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1300188313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: The Detective
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 8
+  m_fontSizeBase: 8
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 0
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0.0000009536743, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  _SortingLayer: 0
+  _SortingLayerID: 0
+  _SortingOrder: 0
+  m_hasFontAssetChanged: 0
+  m_renderer: {fileID: 1300188315}
+  m_maskType: 0
+--- !u!23 &1300188315
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1300188313}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 7
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!224 &1300188316
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1300188313}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.011576591}
+  m_LocalScale: {x: 0.5, y: 2, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 303740265768671045}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.07, y: -0.22000003}
+  m_SizeDelta: {x: 9.5617, y: 1.1671}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1634916342 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1170775470521992407, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1716690778 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5038995920975677204, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2126897382 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8836264845231121812, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &303740265768671034
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -352,9 +921,17 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 2762119f8e2815c40a7c976a7e4d4ffa, type: 3}
+    - target: {fileID: 1019095352723006129, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1596147700569413489, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1596147700569413489, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1809395835017100312, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_LocalScale.x
@@ -402,7 +979,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2234329528711998121, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.28
+      value: -0.55
       objectReference: {fileID: 0}
     - target: {fileID: 3266410880371177066, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_LocalScale.x
@@ -540,6 +1117,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5207483253599076630, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: DM
+      value: 
+      objectReference: {fileID: 1072941423}
     - target: {fileID: 5291625616641395490, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -575,15 +1156,15 @@ PrefabInstance:
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: buttonA
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 303740265768671037}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: buttonB
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 303740265768671036}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: buttonC
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 303740265768671035}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: LoungeBG
       value: 
@@ -599,27 +1180,47 @@ PrefabInstance:
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: TheaDefault
       value: 
-      objectReference: {fileID: 562027168416831452, guid: a42ca70e670e5f24eb38710e49c4ae30, type: 3}
+      objectReference: {fileID: 1081978645, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: buttonpg35A
+      value: 
+      objectReference: {fileID: 167728559}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: buttonpg35B
+      value: 
+      objectReference: {fileID: 2126897382}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: buttonpg35C
+      value: 
+      objectReference: {fileID: 298120952}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: buttonpg43A
+      value: 
+      objectReference: {fileID: 202944851}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: buttonpg43B
+      value: 
+      objectReference: {fileID: 1634916342}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: BlairDefault
       value: 
-      objectReference: {fileID: -8822959696928394811, guid: 5576caec388db08458d821bc5a8cbacc, type: 3}
+      objectReference: {fileID: -956062508, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: LouisDefault
       value: 
-      objectReference: {fileID: 7614623605849670361, guid: 2b0d198d81cdc7c4ca7711c76fb6a0b7, type: 3}
+      objectReference: {fileID: -1990569184, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: ArthurDefault
       value: 
-      objectReference: {fileID: 2778512770271334938, guid: 7de6f9ecfcdf32f40947cebf4bc25434, type: 3}
+      objectReference: {fileID: 1621528132, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: ElliotDefault
       value: 
-      objectReference: {fileID: -6567085513935262482, guid: 664ae207f0b328e49896b220718ad044, type: 3}
+      objectReference: {fileID: 657333164, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: MorganDefault
       value: 
-      objectReference: {fileID: 9008509150173765435, guid: 33ad7081f460d934794fd352f165f9aa, type: 3}
+      objectReference: {fileID: -649463813, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: ObservatoryBG
       value: 
@@ -627,18 +1228,18 @@ PrefabInstance:
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: EmersonDefault
       value: 
-      objectReference: {fileID: 5906812090633008582, guid: 169e998596750994b8df42cd5c3a1204, type: 3}
+      objectReference: {fileID: 1833893270, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: GarrettDefault
       value: 
-      objectReference: {fileID: -9094201849590598439, guid: 75c8c39154ff6e2499bf4d62cff92fa3, type: 3}
+      objectReference: {fileID: -458367113, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: AnastasiaDefault
       value: 
-      objectReference: {fileID: -64562433105547086, guid: cb5598d2a5fcfed46811a7cd920c1d46, type: 3}
+      objectReference: {fileID: -369763652, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.size
-      value: 43
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[0].Text
@@ -666,59 +1267,59 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[6].Text
-      value: You smile
+      value: '"What''s your role?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[7].Text
-      value: You look around the room.
+      value: 'CHOICE:'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[8].Text
-      value: It seems like everyone has already arrived
+      value: ...
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[9].Text
-      value: Elliot announces everyone's roles.
+      value: '"Oh cool. Looks like we''re rivals"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[10].Text
-      value: 'ROLE: Heir - Elliot Winslow'
+      value: '"We don''t have a plumber role, You''re the Detective.'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[11].Text
-      value: 'ROLE: Spouse - Blair O''Brien'
+      value: '"Huh? I''m the Butler. Unfortunately."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[12].Text
-      value: 'ROLE: Journalist - Morgan Patterson'
+      value: Elliot introduces you to everyone.
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[13].Text
-      value: 'ROLE: Secret Lover - Anastasia Montgomery'
+      value: 'ROLE: Heir - Elliot Winslow'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[14].Text
-      value: 'ROLE: Butler - Garrett Sinclair'
+      value: 'ROLE: Spouse - Blair O''Brien'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[15].Text
-      value: 'ROLE: Neighbor - Emerson Devoe'
+      value: 'ROLE: Journalist - Morgan Patterson'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[16].Text
-      value: 'ROLE: Doctor - Louis Bellwood'
+      value: 'ROLE: Secret Lover - Anastasia Montgomery'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[17].Text
-      value: 'ROLE: Victim - Arthur Quinn'
+      value: 'ROLE: Butler - Garrett Sinclair'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[18].Text
-      value: 'ROLE: Psychic - Thea Crawford'
+      value: 'ROLE: Neighbor - Emerson Devoe'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[19].Text
-      value: '"Hi Player, it''s nice to meet you."'
+      value: 'ROLE: Doctor - Louis Bellwood'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[1].Index
@@ -726,43 +1327,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[20].Text
-      value: '"How did you two meet?"'
+      value: 'ROLE: Victim - Arthur Quinn'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[21].Text
-      value: '"At a coffee shop."'
+      value: 'ROLE: Psychic - Thea Crawford'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[22].Text
-      value: '"A regular coffee shop? Like Starbreaks?"'
+      value: '"Hi Player, it''s nice to meet you."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[23].Text
-      value: '"Yes. It was exactly Starbreaks."'
+      value: '"How did you two meet?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[24].Text
-      value: '"Ew. What were you doing at Starbreaks?"'
+      value: '"At a coffee shop."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[25].Text
-      value: '"Anastasia please."'
+      value: '"A regular coffee shop? Like Starbreaks?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[26].Text
-      value: '"I''m hungry. Hey. Ell, where''s the food?"'
+      value: '"Yes. It was exactly Starbreaks."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[27].Text
-      value: '"Okay you guys.'
+      value: '"Ew. What were you doing at Starbreaks?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[28].Text
-      value: '"Mingle, catch up, get in character, explore '
+      value: '"Anastasia please."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[29].Text
-      value: '"We''ll begin the game soon."'
+      value: '"I''m hungry. Hey. Ell, where''s the food?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[2].Index
@@ -770,43 +1371,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[30].Text
-      value: The guests wander off
+      value: '"Okay you guys.'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[31].Text
-      value: You head to the lounge
+      value: '"Mingle, catch up, get in character, explore '
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[32].Text
-      value: You find Anastasia, Louis and Garrett
+      value: '"We''ll begin the game soon."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[33].Text
-      value: '"You''re the butler of the mansion right?"'
+      value: The guests wander off
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[34].Text
-      value: '"Why don''t you escort me to the bedroom?"'
+      value: 'CHOICE: where do I want to go?'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[35].Text
-      value: '"Are you seriously flirting with the butler?"'
+      value: ...
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[36].Text
-      value: '"Are you jealous because she''s not flirting with you?"'
+      value: You head to the lounge.
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[37].Text
-      value: You make your way to the study next.
+      value: You find Anastasia, Louis and Garrett
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[38].Text
-      value: You find Blair and Morgan
+      value: '"You''re the butler of the mansion right?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[39].Text
-      value: '"Hey Player,'
+      value: '"Why don''t you escort me to the bedroom?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[3].Index
@@ -814,14 +1415,42 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[40].Text
-      value: '"have you ever been to one of these parties before'
+      value: '"Are you seriously flirting with the butler?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[41].Text
-      value: '"No."'
+      value: '"Are you jealous because I''m not flirting with you?"'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[42].Text
+      value: 'CHOICE:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].Text
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].Text
+      value: You make your way to the study next.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].Text
+      value: You find Blair and Morgan
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].Text
+      value: '"Hey Player,'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].Text
+      value: '"have you ever been to one of these parties before'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].Text
+      value: '"No."'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].Text
       value: '"I haven''t. I don''t like this very much."'
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
@@ -981,6 +1610,34 @@ PrefabInstance:
       value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].Index
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].Index
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].Index
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].Index
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].Index
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].Index
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].Index
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[0].NameText
       value: Narrator
       objectReference: {fileID: 0}
@@ -1030,7 +1687,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[6].NameText
-      value: Narrator
+      value: Morgan
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[6].NextPage
@@ -1054,11 +1711,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[9].NameText
-      value: Narrator
+      value: Morgan
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[9].NextPage
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[0].Character
@@ -1066,15 +1723,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[10].NameText
-      value: Narrator
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[10].NextPage
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[11].NameText
-      value: Narrator
+      value: Garrett
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[11].NextPage
@@ -1138,7 +1795,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[19].NameText
-      value: Blair
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[19].NextPage
@@ -1150,7 +1807,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[20].NameText
-      value: Emerson
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[20].NextPage
@@ -1158,7 +1815,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[21].NameText
-      value: Elliot
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[21].NextPage
@@ -1166,7 +1823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[22].NameText
-      value: Anastasia
+      value: Blair
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[22].NextPage
@@ -1174,7 +1831,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[23].NameText
-      value: Elliot
+      value: Arthur
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[23].NextPage
@@ -1182,7 +1839,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[24].NameText
-      value: Anastasia
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[24].NextPage
@@ -1190,7 +1847,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[25].NameText
-      value: Elliot
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[25].NextPage
@@ -1198,7 +1855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[26].NameText
-      value: Louis
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[26].NextPage
@@ -1206,7 +1863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[27].NameText
-      value: Elliot
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[27].NextPage
@@ -1222,7 +1879,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[29].NameText
-      value: Elliot
+      value: Louis
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[29].NextPage
@@ -1234,7 +1891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[30].NameText
-      value: Narrator
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[30].NextPage
@@ -1242,7 +1899,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[31].NameText
-      value: Narrator
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[31].NextPage
@@ -1250,7 +1907,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[32].NameText
-      value: Narrator
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[32].NextPage
@@ -1258,7 +1915,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[33].NameText
-      value: Anastasia
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[33].NextPage
@@ -1266,7 +1923,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[34].NameText
-      value: Anastasia
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[34].NextPage
@@ -1274,7 +1931,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[35].NameText
-      value: Louis
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[35].NextPage
@@ -1282,7 +1939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[36].NameText
-      value: Garrett
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[36].NextPage
@@ -1298,7 +1955,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[38].NameText
-      value: Narrator
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[38].NextPage
@@ -1306,7 +1963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[39].NameText
-      value: Blair
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[39].NextPage
@@ -1318,7 +1975,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[40].NameText
-      value: Blair
+      value: Louis
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[40].NextPage
@@ -1326,7 +1983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[41].NameText
-      value: Player
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[41].NextPage
@@ -1334,10 +1991,66 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[42].NameText
-      value: Blair
+      value: Narrator
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[42].NextPage
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].NameText
+      value: Narrator
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].NextPage
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].NameText
+      value: Narrator
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].NextPage
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].NameText
+      value: Narrator
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].NextPage
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].NameText
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].NextPage
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].NameText
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].NextPage
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].NameText
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].NextPage
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].NameText
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].NextPage
       value: 43
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
@@ -1350,7 +2063,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[6].Character
-      value: Player
+      value: Morgan
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[7].Character
@@ -1362,7 +2075,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[9].Character
-      value: Player
+      value: Morgan
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[0].Background
@@ -1374,39 +2087,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[11].Character
-      value: Blair
-      objectReference: {fileID: 0}
-    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
-      propertyPath: Lines.Array.data[12].Character
-      value: Morgan
-      objectReference: {fileID: 0}
-    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
-      propertyPath: Lines.Array.data[13].Character
-      value: Anastasia
-      objectReference: {fileID: 0}
-    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
-      propertyPath: Lines.Array.data[14].Character
       value: Garrett
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[12].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[13].Character
+      value: Elliot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[14].Character
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[15].Character
-      value: Emerson
+      value: Morgan
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[16].Character
-      value: Louis
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[17].Character
-      value: Arthur
+      value: Garrett
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[18].Character
-      value: Thea
+      value: Emerson
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[19].Character
-      value: Blair
+      value: Louis
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[1].Background
@@ -1414,35 +2127,35 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[20].Character
-      value: Emerson
+      value: Arthur
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[21].Character
-      value: Elliot
+      value: Thea
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[22].Character
-      value: Anastasia
+      value: Blair
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[23].Character
-      value: Elliot
+      value: Arthur
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[24].Character
-      value: Anastasia
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[25].Character
-      value: Elliot
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[26].Character
-      value: Louis
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[27].Character
-      value: Elliot
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[28].Character
@@ -1450,7 +2163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[29].Character
-      value: Elliot
+      value: Louis
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[2].Background
@@ -1458,31 +2171,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[30].Character
-      value: Player
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[31].Character
-      value: Player
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[32].Character
-      value: Player
+      value: Elliot
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[33].Character
-      value: Anastasia
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[34].Character
-      value: Anastasia
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[35].Character
-      value: Louis
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[36].Character
-      value: Garrett
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[37].Character
@@ -1490,11 +2203,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[38].Character
-      value: Player
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[39].Character
-      value: Blair
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[3].Background
@@ -1502,14 +2215,42 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[40].Character
-      value: Blair
+      value: Louis
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[41].Character
-      value: Player
+      value: Anastasia
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[42].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].Character
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].Character
+      value: Blair
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].Character
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].Character
       value: Blair
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
@@ -1630,15 +2371,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[33].Background
-      value: Lounge
+      value: Foyer
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[34].Background
-      value: Lounge
+      value: Foyer
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[35].Background
-      value: Lounge
+      value: Foyer
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[36].Background
@@ -1646,7 +2387,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[37].Background
-      value: Lounge
+      value: Foyer
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[38].Background
@@ -1654,18 +2395,46 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[39].Background
-      value: Study
+      value: Lounge
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[40].Background
-      value: Study
+      value: Lounge
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[41].Background
-      value: Study
+      value: Lounge
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: Lines.Array.data[42].Background
+      value: Lounge
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[43].Background
+      value: Lounge
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[44].Background
+      value: Lounge
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[45].Background
+      value: Lounge
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[46].Background
+      value: Study
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[47].Background
+      value: Study
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[48].Background
+      value: Study
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: Lines.Array.data[49].Background
       value: Study
       objectReference: {fileID: 0}
     - target: {fileID: 5947777869281854539, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
@@ -1742,7 +2511,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7405157708470203924, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7405157708470203924, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7538531149000680926, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_IsActive
@@ -1799,11 +2572,19 @@ PrefabInstance:
     - target: {fileID: 8435436664436850297, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: DM
       value: 
+      objectReference: {fileID: 1072941423}
+    - target: {fileID: 8584008827749971746, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8584008827749971746, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 8652731320508873097, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: DM
+      value: 
+      objectReference: {fileID: 1072941423}
     - target: {fileID: 8708972799685727787, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Size.x
       value: 2.59
@@ -1815,18 +2596,36 @@ PrefabInstance:
     - target: {fileID: 8708972799685727787, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -64562433105547086, guid: cb5598d2a5fcfed46811a7cd920c1d46, type: 3}
+      objectReference: {fileID: -458367113, guid: 8acc9a18992ff01469a867ad25ba81d9, type: 3}
+    - target: {fileID: 8708972799685727787, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8708972799685727787, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9182940773377689631, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9182940773377689631, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3136496919488180482, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 6718448030938701375, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1300188316}
+    - targetCorrespondingSourceObject: {fileID: 5038995920975677204, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 447130643}
+    - targetCorrespondingSourceObject: {fileID: 7697135388456964866, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 388717334}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3513761046430215190, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       insertIndex: -1
@@ -1834,7 +2633,47 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 877353218127355485, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
       insertIndex: -1
       addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 1566880092036697250, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 4551583565583924312, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 5659751630385370394, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 2361977646998830534, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
+    - targetCorrespondingSourceObject: {fileID: 8006677128314449438, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+--- !u!1 &303740265768671035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6956370675347350659, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &303740265768671036 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4831939911927212245, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &303740265768671037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7538531149000680926, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &303740265768671041 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7697135388456964866, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &303740265768671045 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6718448030938701375, guid: 6a444eaccaf8ee042a6bf5c03615d6fe, type: 3}
+  m_PrefabInstance: {fileID: 303740265768671034}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

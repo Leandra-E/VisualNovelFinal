@@ -15,7 +15,20 @@ public class DialogueManager : MonoBehaviour
     public SpriteRenderer Background;
     public TextMeshPro NameText;
     
+    //button components
+    public GameObject buttonA;
+    public GameObject buttonB;
+    public GameObject buttonC;
 
+    public GameObject buttonpg35A;
+    public GameObject buttonpg35B;
+    public GameObject buttonpg35C;
+    
+    public GameObject buttonpg43A;
+    public GameObject buttonpg43B;
+    
+    
+    
     //A list of all the character sprites
     //I need to make these variables, so I can reference them
     public Sprite ElliotDefault;
@@ -63,12 +76,12 @@ public class DialogueManager : MonoBehaviour
             ImprintLine();
         }
 
-        //if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Z))
         {
             //Set the current line of dialogue to the next one
-          //  Index = Lines[Index].AltNextPage;
+            Index = Lines[Index].AltNextPage;
             //And redo all the text and art to match it
-         //   ImprintLine();
+            ImprintLine();
         }
     }
 
@@ -92,8 +105,44 @@ public class DialogueManager : MonoBehaviour
         //Find the background art the line of dialogue requests
         Background.sprite = GetBackground(current.Background);
         NameText.text = current.NameText;
-        
-      
+
+
+        if (Index == 8)
+        {
+            buttonA.SetActive(true);
+            buttonB.SetActive(true);
+            buttonC.SetActive(true);
+        }
+        else
+        {
+            buttonA.SetActive(false);
+            buttonB.SetActive(false);
+            buttonC.SetActive(false);
+        }
+
+        if (Index == 35)
+        {
+            buttonpg35A.SetActive(true);
+            buttonpg35B.SetActive(true);
+            buttonpg35C.SetActive(true);
+        }
+        else
+        {
+            buttonpg35A.SetActive(false);
+            buttonpg35B.SetActive(false);
+            buttonpg35C.SetActive(false);
+        }
+
+        if (Index == 43)
+        {
+            buttonpg43A.SetActive(true);
+            buttonpg43B.SetActive(true);
+        }
+        else
+        {
+            buttonpg43A.SetActive(false);
+            buttonpg43B.SetActive(false);
+        }
     }
 
     //Convert the text description of a character to a sprite
@@ -130,29 +179,55 @@ public class DialogueManager : MonoBehaviour
         //If Background is left blank, just don't change anything
         return Background.sprite;
     }
-
-    public GameObject buttonA;
-    public GameObject buttonB;
-    public GameObject buttonC;
+    
     
     public void MakeChoiceA()
     {
-
-     
+        Index = 9;
+        ImprintLine();
     }
 
     public void MakeChoiceB()
     {
-
-     
+      Index = 10;
+      ImprintLine();
     }
     public void MakeChoiceC()
     {
-
-      
+      Index = 11;
+      ImprintLine();
     }
 
+    public void MakeChoice35A()
+    {
+        Index = 36;
+        ImprintLine();
+    }
 
+    public void MakeChoice35B()
+    {
+        Index = 0;
+        ImprintLine();
+    }
+
+    public void MakeChoice35C()
+    {
+        Index = 0;
+        ImprintLine();
+    }
+
+    public void MakeChoice43A()
+    {
+        Index = 0;
+        ImprintLine();
+    }
+    
+    public void MakeChoice43B()
+    {
+        Index = 0;
+        ImprintLine();
+    }
+    
 }
 
 //This line makes a class appear in the Unity Inspector
